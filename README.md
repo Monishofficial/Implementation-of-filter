@@ -59,7 +59,8 @@ else:
 ```
 <h2>OUTPUT</h2>
 
-![Screenshot 2025-04-23 142842](https://github.com/user-attachments/assets/4d87c117-34d1-46ef-a0ed-3665ee2176a8)
+![Screenshot 2025-04-28 211655](https://github.com/user-attachments/assets/854a9536-1be3-4f46-9e05-7f845b10f9b0)
+
 ii) Using Weighted Averaging Filter
 ```Python
 # Developed By: MONISH N
@@ -73,7 +74,8 @@ plt.show()
 ```
 <h2>OUTPUT</h2>
 
-![Screenshot 2025-04-23 142937](https://github.com/user-attachments/assets/d0434972-cbfb-4dec-b59f-73fe1bda88ce)
+![Screenshot 2025-04-28 211804](https://github.com/user-attachments/assets/62c1886b-7093-4cbc-8616-2f87d437494a)
+
 iii) Using Gaussian Filter
 ```Python
 # Developed By: MONISH N
@@ -86,7 +88,8 @@ plt.show()
 ```
 <h2>OUTPUT</h2>
 
-![Screenshot 2025-04-23 143027](https://github.com/user-attachments/assets/5f77a941-9436-49b3-ae6e-5ecab433e502)
+![Screenshot 2025-04-28 211826](https://github.com/user-attachments/assets/6ad41f38-97f0-483b-a788-043ac6085ce9)
+
 iv)Using Median Filter
 ```Python
 # Developed By: MONISH N
@@ -99,7 +102,7 @@ plt.show()
 ```
 <h2>OUTPUT</h2>
 
-![Screenshot 2025-04-23 143104](https://github.com/user-attachments/assets/88dd1d59-a205-4f03-9cdb-3074e2cc91bb)
+![Screenshot 2025-04-28 211851](https://github.com/user-attachments/assets/3d557005-1c25-40a4-b24c-c9ade29f27f1)
 ### 2. Sharpening Filters
 i) Using Laplacian Linear Kernal
 ```Python
@@ -115,7 +118,8 @@ plt.show()
 ```
 <h2>OUTPUT</h2>
 
-![Screenshot 2025-04-23 143144](https://github.com/user-attachments/assets/943ff1da-ce99-4ab8-8832-1515ea50b54e)
+![Screenshot 2025-04-28 211937](https://github.com/user-attachments/assets/56154de9-c084-4bf1-883f-cba2eb24a222)
+
 ii) Using Laplacian Operator
 ```Python
 # Developed By: MONISH N
@@ -129,7 +133,8 @@ plt.show()
 ```
 <h2>OUTPUT</h2>
 
-![Screenshot 2025-04-23 143216](https://github.com/user-attachments/assets/bb1d2a85-afed-41fa-8312-fe5538e23664)
+![Screenshot 2025-04-28 212007](https://github.com/user-attachments/assets/fc64b78f-67cd-43e7-89f1-6dffc7596492)
+
 </br>
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
