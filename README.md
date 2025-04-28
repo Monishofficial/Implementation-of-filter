@@ -97,6 +97,7 @@ plt.axis("off")
 plt.show()
 ```
 <h2>OUTPUT</h2>
+
 ![Screenshot 2025-04-23 143104](https://github.com/user-attachments/assets/88dd1d59-a205-4f03-9cdb-3074e2cc91bb)
 ### 2. Sharpening Filters
 i) Using Laplacian Linear Kernal
@@ -112,6 +113,7 @@ plt.axis("off")
 plt.show()
 ```
 <h2>OUTPUT</h2>
+
 ![Screenshot 2025-04-23 143144](https://github.com/user-attachments/assets/943ff1da-ce99-4ab8-8832-1515ea50b54e)
 ii) Using Laplacian Operator
 ```Python
@@ -125,6 +127,7 @@ plt.show()
 
 ```
 <h2>OUTPUT</h2>
+
 ![Screenshot 2025-04-23 143216](https://github.com/user-attachments/assets/bb1d2a85-afed-41fa-8312-fe5538e23664)
 </br>
 ## Result:
