@@ -85,6 +85,7 @@ plt.axis("off")
 plt.show()
 ```
 <h2>OUTPUT</h2>
+
 ![Screenshot 2025-04-23 143027](https://github.com/user-attachments/assets/5f77a941-9436-49b3-ae6e-5ecab433e502)
 iv)Using Median Filter
 ```Python
