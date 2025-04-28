@@ -136,5 +136,6 @@ plt.show()
 ![Screenshot 2025-04-28 212007](https://github.com/user-attachments/assets/fc64b78f-67cd-43e7-89f1-6dffc7596492)
 
 </br>
+
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
