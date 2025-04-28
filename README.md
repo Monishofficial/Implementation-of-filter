@@ -107,8 +107,8 @@ plt.show()
 ### 2. Sharpening Filters
 i) Using Laplacian Linear Kernal
 ```Python
-# Developed By: HAREESH R
-# Register Number: 212223230068
+# Developed By: MONISH N
+# Register Number: 212223240097
 
 kernel2=np.array([[-1,-1,-1],[2,-2,1],[2,1,-1]])
 image3=cv2.filter2D(image2,-1,kernel2)
